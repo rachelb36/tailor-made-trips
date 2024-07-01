@@ -78,7 +78,6 @@ $(document).ready(function () {
         );
       });
   }
-
   // Function to fetch POIs for a specific category
   function fetchCategoryPOIs(lat, lon, category) {
     const placesUrl = 'https://api.tomtom.com/search/2/poiSearch/';

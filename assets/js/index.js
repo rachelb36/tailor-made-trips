@@ -42,7 +42,6 @@ $(document).ready(function () {
     } else {
       const message = $('.message');
       message.text('Please enter a location.');
-    
     }
   });
 });
