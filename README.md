@@ -37,7 +37,9 @@ To run the Tailor Made Trips app locally, follow these steps:
 2. View Information: Browse the detailed information provided for attractions, hotels, and restaurants.
 3. Currency Exchange: Check the latest currency exchange rates for your destination.
 
-![Screenshot of Tailor Made Trips application.](/assets/images/tmt_screenshot2.png)
+   ![Screenshot of Tailor Made Trips application.](/assets/images/tmt_screenshot_1.png)
+   ![Screenshot of Tailor Made Trips application.](/assets/images/tmt_screenshot_2.png)
+   ![Screenshot of Tailor Made Trips application.](/assets/images/tmt_screenshot_3.png)
 
 ## API Integration
 
