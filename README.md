@@ -1,6 +1,6 @@
 # Description
 
-## Tailor-made-trips is a website that will help travelers around the globle to easily customize their trips at the own convenience
+## Tailor-made-trips is a website that will help travelers around the globe to easily customize their trips at the own convenience
 
 # Usage
 
@@ -36,6 +36,8 @@ To run the Tailor Made Trips app locally, follow these steps:
 1. Enter Destination: Input your travel destination in the search bar.
 2. View Information: Browse the detailed information provided for attractions, hotels, and restaurants.
 3. Currency Exchange: Check the latest currency exchange rates for your destination.
+
+![Screenshot of Tailor Made Trips application.](/assets/images/tmt_screenshot2.png)
 
 ## API Integration
 
